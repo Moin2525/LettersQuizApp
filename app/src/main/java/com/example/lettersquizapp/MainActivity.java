@@ -46,7 +46,7 @@ public class MainActivity extends AppCompatActivity {
         drawerLayout.addDrawerListener(toggle);
         toggle.syncState();
 
-        MyFragment fragment = new MyFragment();
+        com.example.letterplay.MyFragment fragment = new MyFragment();
 
         try {
             FragmentTransaction transaction = getSupportFragmentManager().beginTransaction();
