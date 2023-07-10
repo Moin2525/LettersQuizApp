@@ -1,4 +1,4 @@
-package com.example.letterplay;
+package com.example.lettersquizapp;
 
 import android.annotation.SuppressLint;
 import android.database.Cursor;

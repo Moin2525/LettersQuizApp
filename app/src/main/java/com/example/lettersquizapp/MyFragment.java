@@ -1,4 +1,4 @@
-package com.example.letterplay;
+package com.example.lettersquizapp;
 
 import android.os.Bundle;
 import android.os.Handler;

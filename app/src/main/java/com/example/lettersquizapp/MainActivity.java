@@ -1,4 +1,4 @@
-package com.example.letterplay;
+package com.example.lettersquizapp;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -46,7 +46,7 @@ public class MainActivity extends AppCompatActivity {
         drawerLayout.addDrawerListener(toggle);
         toggle.syncState();
 
-        com.example.letterplay.MyFragment fragment = new MyFragment();
+        com.example.lettersquizapp.MyFragment fragment = new com.example.lettersquizapp.MyFragment();
 
         try {
             FragmentTransaction transaction = getSupportFragmentManager().beginTransaction();

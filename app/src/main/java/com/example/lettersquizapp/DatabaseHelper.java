@@ -1,4 +1,4 @@
--package com.example.letterplay;
+package com.example.lettersquizapp;
 
 import android.content.ContentValues;
 import android.content.Context;
